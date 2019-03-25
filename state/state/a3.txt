@@ -1,0 +1,37 @@
+PROGRAM RESULTS:
+
+       Name:      California
+       Abbr.:     CA
+       Capitol:   Sacramento
+       Statehood: Sept. 9, 1850
+       Population:37253956
+       Nickname:  Golden State
+
+       Name:      Missouri
+       Abbr.:     MO
+       Capitol:   Jefferson City
+       Statehood: Aug. 10, 1821
+       Population:5988927
+       Nickname:  Show Me State
+
+       Name:      Wyoming
+       Abbr.:     WY
+       Capitol:   Cheyenne
+       Statehood: July 10, 1890
+       Population:563626
+       Nickname:  Equality State
+
+       Name:      Maine
+       Abbr.:     ME
+       Capitol:   Augusta
+       Statehood: March 15, 1820
+       Population:1328361
+       Nickname:  Pine Tree State
+
+       Name:      Georgia
+       Abbr.:     GA
+       Capitol:   Atlanta
+       Statehood: Jan. 2, 1788
+       Population:9687653
+       Nickname:  Peach State
+

@@ -1,0 +1,19 @@
+﻿Build started 9/28/2017 8:22:25 PM.
+     1>Project "C:\Users\Admin\Desktop\COSC 1560 03\septemberTwentyEighthNotes\septemberTwentyEighthNotes\septemberTwentyEighthNotes.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Triangle.cpp semptemberTwentyEighthNotes.cpp
+         Triangle.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         semptemberTwentyEighthNotes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Desktop\COSC 1560 03\septemberTwentyEighthNotes\Debug\septemberTwentyEighthNotes.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Admin\Desktop\COSC 1560 03\septemberTwentyEighthNotes\Debug\septemberTwentyEighthNotes.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\Desktop\COSC 1560 03\septemberTwentyEighthNotes\Debug\septemberTwentyEighthNotes.lib" /MACHINE:X86 Debug\Junk.obj
+         Debug\semptemberTwentyEighthNotes.obj
+         Debug\Triangle.obj
+     1>Triangle.obj : error LNK2019: unresolved external symbol "public: void __thiscall Triangle::calcArea(class Triangle)" (?calcArea@Triangle@@QAEXV1@@Z) referenced in function "public: double __thiscall Triangle::getArea(class Triangle)" (?getArea@Triangle@@QAENV1@@Z)
+     1>C:\Users\Admin\Desktop\COSC 1560 03\septemberTwentyEighthNotes\Debug\septemberTwentyEighthNotes.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\Admin\Desktop\COSC 1560 03\septemberTwentyEighthNotes\septemberTwentyEighthNotes\septemberTwentyEighthNotes.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31

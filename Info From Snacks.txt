@@ -1,0 +1,13 @@
+1 Portion size for fruits and vegetables is the larger of (a) average amount consumed by children 6-13 years of age who reported consuming the food in the 2005-08 National Health and Nutrition 													
+"Examination Survey (NHANES) or (b) 1/2 cup-equivalent consumed. Unless otherwise noted, item is consumed raw, from fresh."													
+													
+2 Price per portion is calculated by ERS using data from Nielsen's 2010 Homescan panel.													
+													
+"3 Calorie information from U.S. Department of Agriculture, Agricultural Research Service. 2011.  USDA National Nutrient Database for Standard Reference, Release 24.  "													
+http://www.ars.usda.gov/Services/docs.htm?docid=22808													
+													
+4 Portion size for snacks is the average amount consumed by children 6-13 years of age who reported consuming the food in the 2005-08 National Health and Nutrition Examination Survey (NHANES). 													
+"For popsicles and bars, a ""portion"" is one count."													
+													
+													
+"Source: Calculated by ERS, USDA from the 2005-08 NHANES, Nielsen's 2010 Homescan panel data, and USDA's National Nutrient Database for Standard Reference. "

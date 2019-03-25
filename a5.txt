@@ -1,0 +1,23 @@
+       User entered: Hawaii
+       Result:       Found
+
+       Name:      Hawaii
+       Abbr.:     HI
+       Capitol:   Honolulu
+       Statehood: Aug. 21, 1959
+       Population:1392313
+       Nickname:  The Aloha State
+
+       User entered: WI
+       Result:       Not Found
+
+       User entered: MO
+       Result:       Found
+
+       Name:      Missouri
+       Abbr.:     MO
+       Capitol:   Jefferson City
+       Statehood: Aug. 10, 1821
+       Population:5988927
+       Nickname:  Show Me State
+

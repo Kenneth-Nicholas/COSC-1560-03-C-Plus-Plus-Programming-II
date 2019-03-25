@@ -1,0 +1,34 @@
+// This program illustrates dynamic allocation
+// of storage for C-strings
+#include <iostream> 
+#include <cstring>
+using namespace std;
+
+
+int main()
+{
+    char *pname, *z;
+    pname = new char[50];          //allocate storage
+    cout << "Enter your name: ";
+    cin.getline(pname, 50);                  //print name
+    cout << "Hello " << pname << endl;
+	cout << "Your name is " << strlen(pname) << " characters long.\n";
+	z = pname;
+	//while(*pname != 0)
+	//{
+	//	cout << "Hello " << *pname << "  Your name is " << strlen(pname) << " characters long.\n";
+	//	pname++;
+	//}
+	//pname = z;
+	while(*z != 0)
+	{
+		cout << "Hello " << *z << "  Your name is " << strlen(z) << " characters long.\n";
+		z++;
+	}
+	//pname = z;
+	delete [] pname;
+//	delete [] z;
+	pname = nullptr;
+//	z = nullptr;
+    return 0;
+}

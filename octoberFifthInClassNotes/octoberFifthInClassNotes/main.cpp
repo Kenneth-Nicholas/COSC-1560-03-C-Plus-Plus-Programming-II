@@ -1,0 +1,26 @@
+#include "temperature.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	Temperature temps[10];
+
+	temps[0].setFahrenheit(73.8);
+
+	cout << temps[0].getFahrenheit() << endl;
+
+	temps[0].calcCelsius();
+
+	cout << temps[0].getCelsius() << endl;
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	return 0;
+}

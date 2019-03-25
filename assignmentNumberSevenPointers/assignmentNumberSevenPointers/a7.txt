@@ -1,0 +1,47 @@
+PROGRAM RESULTS:
+
+The sum of 78 and 6 is 84
+The difference of 78 and 6 is 72
+The product of 78 and 6 is 468
+The quotient of 78 and 6 is 13
+
+The sum of 328 and 89 is 417
+The difference of 328 and 89 is 239
+The product of 328 and 89 is 29192
+The quotient of 328 and 89 is 3
+
+The sum of 34 and 6 is 40
+The difference of 34 and 6 is 28
+The product of 34 and 6 is 204
+The quotient of 34 and 6 is 5
+
+The sum of 100 and 13 is 113
+The difference of 100 and 13 is 87
+The product of 100 and 13 is 1300
+The quotient of 100 and 13 is 7
+
+The sum of 45 and 9 is 54
+The difference of 45 and 9 is 36
+The product of 45 and 9 is 405
+The quotient of 45 and 9 is 5
+
+The sum of 33 and 9 is 42
+The difference of 33 and 9 is 24
+The product of 33 and 9 is 297
+The quotient of 33 and 9 is 3
+
+The sum of 44 and 3 is 47
+The difference of 44 and 3 is 41
+The product of 44 and 3 is 132
+The quotient of 44 and 3 is 14
+
+The sum of 99 and 6 is 105
+The difference of 99 and 6 is 93
+The product of 99 and 6 is 594
+The quotient of 99 and 6 is 16
+
+The sum of 654 and 45 is 699
+The difference of 654 and 45 is 609
+The product of 654 and 45 is 29430
+The quotient of 654 and 45 is 14
+

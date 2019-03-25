@@ -1,0 +1,149 @@
+PROGRAM RESULTS:
+
+       Name:      Nebraska
+       Abbr.:     Ne
+       Capitol:   Omaha
+       Statehood: March 1, 1867
+       Population:1845525
+       Nickname:  Cornhusker State
+
+       Name:      California
+       Abbr.:     CA
+       Capitol:   Sacramento
+       Statehood: Sept. 9, 1850
+       Population:37253956
+       Nickname:  Golden State
+
+       Name:      Missouri
+       Abbr.:     MO
+       Capitol:   Jefferson City
+       Statehood: Aug. 10, 1821
+       Population:5988927
+       Nickname:  Show Me State
+
+       Name:      Wyoming
+       Abbr.:     WY
+       Capitol:   Cheyenne
+       Statehood: July 10, 1890
+       Population:576412
+       Nickname:  Equality State
+
+       Name:      Washington
+       Abbr.:     WA
+       Capitol:   Olympia
+       Statehood: Nov. 11, 1889
+       Population:6897012
+       Nickname:  The Evergreen State
+
+       Name:      Colorado
+       Abbr.:     CO
+       Capitol:   Denver
+       Statehood: Aug. 1, 1876
+       Population:5187582
+       Nickname:  Centennial State
+
+       Name:      Connecticut
+       Abbr.:     CT
+       Capitol:   Hartford
+       Statehood: Jan. 9, 1788
+       Population:3590347
+       Nickname:  The Constitution State
+
+       Name:      Alaska
+       Abbr.:     AK
+       Capitol:   Juneau
+       Statehood: Jan. 3, 1959
+       Population:731449
+       Nickname:  The Last Frontier
+
+       Name:      Florida
+       Abbr.:     FL
+       Capitol:   Tallahassee
+       Statehood: Mar. 3, 1845
+       Population:19317568
+       Nickname:  The Sunshine State
+
+       Name:      Virginia
+       Abbr.:     VA
+       Capitol:   Richmond
+       Statehood: June 25, 1788
+       Population:8185866
+       Nickname:  Old Dominion
+
+       Name:      Hawaii
+       Abbr.:     HI
+       Capitol:   Honolulu
+       Statehood: Aug. 21, 1959
+       Population:1392313
+       Nickname:  The Aloha State
+
+       Name:      Utah
+       Abbr.:     UT
+       Capitol:   Salt Lake City
+       Statehood: Jan. 4, 1896
+       Population:2855287
+       Nickname:  Beehive State
+
+       Name:      Minnesota
+       Abbr.:     MN
+       Capitol:   Saint Paul
+       Statehood: May 11, 1858
+       Population:5379139
+       Nickname:  Land of 10,000 Lakes
+
+       Name:      Georgia
+       Abbr.:     GE
+       Capitol:   Atlanta
+       Statehood: Jan. 2, 1788
+       Population:9919945
+       Nickname:  Peach State
+
+       Name:      Maryland
+       Abbr.:     MA
+       Capitol:   Annapolis
+       Statehood: April 28, 1788
+       Population:5928814
+       Nickname:  Old Line State
+
+       Name:      Texas
+       Abbr.:     TX
+       Capitol:   Austin
+       Statehood: December 29, 1845
+       Population:26448193
+       Nickname:  Lone Star State
+
+       Name:      Iowa
+       Abbr.:     IA
+       Capitol:   Des Moines
+       Statehood: December 28, 1846
+       Population:3090416
+       Nickname:  Hawkeye State
+
+       Name:      Idaho
+       Abbr.:     ID
+       Capitol:   Boise
+       Statehood: July 3, 1890
+       Population:1612136
+       Nickname:  Gem State
+
+       Name:      Louisiana
+       Abbr.:     LA
+       Capitol:   Baton Rouge
+       Statehood: April 30, 1812
+       Population:4625470
+       Nickname:  Pelican State
+
+       Name:      Vermont
+       Abbr.:     VT
+       Capitol:   Montpelier
+       Statehood: March 4, 1791
+       Population:626630
+       Nickname:  Green Mountain State
+
+       Name:      Alabama
+       Abbr.:     AL
+       Capitol:   Montgomery
+       Statehood: December 14, 1819
+       Population:4833722
+       Nickname:  Yellowhammer State
+

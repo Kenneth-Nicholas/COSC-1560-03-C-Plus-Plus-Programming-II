@@ -1,0 +1,310 @@
+Welcome to the Snack Information application
+
+Please enter a selection from the following options: (e.g., enter "1" to display all fruits)
+
+1. Display all Fruits
+2. Display all Vegetables
+3. Display all Procesed Snacks
+4. Display the Lowest Calorie Snack
+5. Display the Highest Calorie Snack
+6. Display a Specific Food by Name
+7. Quit
+
+
+Name of Item:                      Apples
+Portion Size (In Ounces):          5.2
+Cost Per Portion:                  0.36
+Calories Per Serving:              77
+
+Name of Item:                      Bananas
+Portion Size (In Ounces):          4.1
+Cost Per Portion:                  0.18
+Calories Per Serving:              102
+
+Name of Item:                      Cantaloupe
+Portion Size (In Ounces):          3.5
+Cost Per Portion:                  0.38
+Calories Per Serving:              33
+
+Name of Item:                      Fruit cocktail, canned
+Portion Size (In Ounces):          4.4
+Cost Per Portion:                  0.31
+Calories Per Serving:              71
+
+Name of Item:                      Grapes
+Portion Size (In Ounces):          3
+Cost Per Portion:                  0.32
+Calories Per Serving:              59
+
+Name of Item:                      Oranges, navel
+Portion Size (In Ounces):          3.8
+Cost Per Portion:                  0.2
+Calories Per Serving:              53
+
+Name of Item:                      Peaches, canned
+Portion Size (In Ounces):          4.4
+Cost Per Portion:                  0.31
+Calories Per Serving:              68
+
+Name of Item:                      Pineapple, canned
+Portion Size (In Ounces):          4.4
+Cost Per Portion:                  0.26
+Calories Per Serving:              75
+
+Name of Item:                      Plum
+Portion Size (In Ounces):          2.9
+Cost Per Portion:                  0.25
+Calories Per Serving:              38
+
+Name of Item:                      Raisins
+Portion Size (In Ounces):          1.3
+Cost Per Portion:                  0.19
+Calories Per Serving:              109
+
+Name of Item:                      Strawberries
+Portion Size (In Ounces):          2.9
+Cost Per Portion:                  0.41
+Calories Per Serving:              27
+
+Name of Item:                      Tangerines
+Portion Size (In Ounces):          4.8
+Cost Per Portion:                  0.51
+Calories Per Serving:              72
+
+Name of Item:                      Watermelon
+Portion Size (In Ounces):          8.7
+Cost Per Portion:                  0.25
+Calories Per Serving:              74
+
+Name of Item:                      Tomatoes, grape/cherry
+Portion Size (In Ounces):          3.2
+Cost Per Portion:                  0.55
+Calories Per Serving:              16
+
+Please enter a selection from the following options: (e.g., enter "1" to display all fruits)
+
+1. Display all Fruits
+2. Display all Vegetables
+3. Display all Procesed Snacks
+4. Display the Lowest Calorie Snack
+5. Display the Highest Calorie Snack
+6. Display a Specific Food by Name
+7. Quit
+
+
+Name of Item:                      Sweet potatoes, cooked
+Portion Size (In Ounces):          3.5
+Cost Per Portion:                  0.33
+Calories Per Serving:              90
+
+Name of Item:                      Celery
+Portion Size (In Ounces):          2.1
+Cost Per Portion:                  0.16
+Calories Per Serving:              10
+
+Name of Item:                      Broccoli florets
+Portion Size (In Ounces):          1.6
+Cost Per Portion:                  0.18
+Calories Per Serving:              12
+
+Name of Item:                      Carrots, baby
+Portion Size (In Ounces):          2.3
+Cost Per Portion:                  0.19
+Calories Per Serving:              22
+
+Name of Item:                      Red peppers
+Portion Size (In Ounces):          2.6
+Cost Per Portion:                  0.6
+Calories Per Serving:              23
+
+Please enter a selection from the following options: (e.g., enter "1" to display all fruits)
+
+1. Display all Fruits
+2. Display all Vegetables
+3. Display all Procesed Snacks
+4. Display the Lowest Calorie Snack
+5. Display the Highest Calorie Snack
+6. Display a Specific Food by Name
+7. Quit
+
+
+Name of Item:                      Chocolate candy
+Portion Size (In Ounces):          0.9
+Cost Per Portion:                  0.24
+Calories Per Serving:              262
+
+Name of Item:                      Applesauce, jarred
+Portion Size (In Ounces):          4.6
+Cost Per Portion:                  0.22
+Calories Per Serving:              100
+
+Name of Item:                      Cookies
+Portion Size (In Ounces):          1
+Cost Per Portion:                  0.16
+Calories Per Serving:              123
+
+Name of Item:                      Corn chips
+Portion Size (In Ounces):          1
+Cost Per Portion:                  0.21
+Calories Per Serving:              140
+
+Name of Item:                      Crackers
+Portion Size (In Ounces):          0.9
+Cost Per Portion:                  0.16
+Calories Per Serving:              114
+
+Name of Item:                      Cupcakes
+Portion Size (In Ounces):          2
+Cost Per Portion:                  0.34
+Calories Per Serving:              174
+
+Name of Item:                      Danish
+Portion Size (In Ounces):          2.6
+Cost Per Portion:                  0.47
+Calories Per Serving:              271
+
+Name of Item:                      Donuts
+Portion Size (In Ounces):          2.1
+Cost Per Portion:                  0.36
+Calories Per Serving:              235
+
+Name of Item:                      Fruit rolls
+Portion Size (In Ounces):          0.8
+Cost Per Portion:                  0.28
+Calories Per Serving:              82
+
+Name of Item:                      Graham crackers
+Portion Size (In Ounces):          0.9
+Cost Per Portion:                  0.14
+Calories Per Serving:              102
+
+Name of Item:                      Granola bars
+Portion Size (In Ounces):          1.1
+Cost Per Portion:                  0.3
+Calories Per Serving:              119
+
+Name of Item:                      Ice cream
+Portion Size (In Ounces):          3.8
+Cost Per Portion:                  0.39
+Calories Per Serving:              196
+
+Name of Item:                      Muffins
+Portion Size (In Ounces):          3.3
+Cost Per Portion:                  0.83
+Calories Per Serving:              369
+
+Name of Item:                      Pizza, from frozen
+Portion Size (In Ounces):          3.3
+Cost Per Portion:                  0.63
+Calories Per Serving:              252
+
+Name of Item:                      Popsicles and bars
+Portion Size (In Ounces):          1
+Cost Per Portion:                  0.34
+Calories Per Serving:              80
+
+Name of Item:                      Potato chips
+Portion Size (In Ounces):          1.1
+Cost Per Portion:                  0.27
+Calories Per Serving:              169
+
+Name of Item:                      Pretzels
+Portion Size (In Ounces):          1.5
+Cost Per Portion:                  0.25
+Calories Per Serving:              168
+
+Name of Item:                      Pudding, ready-to-eat
+Portion Size (In Ounces):          4.1
+Cost Per Portion:                  0.38
+Calories Per Serving:              152
+
+Name of Item:                      Sandwich crackers
+Portion Size (In Ounces):          1.3
+Cost Per Portion:                  0.2
+Calories Per Serving:              183
+
+Name of Item:                      Toaster pastries
+Portion Size (In Ounces):          2.7
+Cost Per Portion:                  0.35
+Calories Per Serving:              299
+
+Name of Item:                      Tortilla chips
+Portion Size (In Ounces):          1.2
+Cost Per Portion:                  0.21
+Calories Per Serving:              161
+
+Please enter a selection from the following options: (e.g., enter "1" to display all fruits)
+
+1. Display all Fruits
+2. Display all Vegetables
+3. Display all Procesed Snacks
+4. Display the Lowest Calorie Snack
+5. Display the Highest Calorie Snack
+6. Display a Specific Food by Name
+7. Quit
+
+
+Name of Item:                      Celery
+Portion Size (In Ounces):          2.1
+Cost Per Portion:                  0.16
+Calories Per Serving:              10
+
+Please enter a selection from the following options: (e.g., enter "1" to display all fruits)
+
+1. Display all Fruits
+2. Display all Vegetables
+3. Display all Procesed Snacks
+4. Display the Lowest Calorie Snack
+5. Display the Highest Calorie Snack
+6. Display a Specific Food by Name
+7. Quit
+
+
+Name of Item:                      Muffins
+Portion Size (In Ounces):          3.3
+Cost Per Portion:                  0.83
+Calories Per Serving:              369
+
+Please enter a selection from the following options: (e.g., enter "1" to display all fruits)
+
+1. Display all Fruits
+2. Display all Vegetables
+3. Display all Procesed Snacks
+4. Display the Lowest Calorie Snack
+5. Display the Highest Calorie Snack
+6. Display a Specific Food by Name
+7. Quit
+
+
+Please enter a specific food: 
+Name of Item:                      Graham crackers
+Portion Size (In Ounces):          0.9
+Cost Per Portion:                  0.14
+Calories Per Serving:              102
+
+Please enter a selection from the following options: (e.g., enter "1" to display all fruits)
+
+1. Display all Fruits
+2. Display all Vegetables
+3. Display all Procesed Snacks
+4. Display the Lowest Calorie Snack
+5. Display the Highest Calorie Snack
+6. Display a Specific Food by Name
+7. Quit
+
+
+Please enter a specific food: 
+Unable to loacte food
+
+Please enter a selection from the following options: (e.g., enter "1" to display all fruits)
+
+1. Display all Fruits
+2. Display all Vegetables
+3. Display all Procesed Snacks
+4. Display the Lowest Calorie Snack
+5. Display the Highest Calorie Snack
+6. Display a Specific Food by Name
+7. Quit
+
+End of Program
+

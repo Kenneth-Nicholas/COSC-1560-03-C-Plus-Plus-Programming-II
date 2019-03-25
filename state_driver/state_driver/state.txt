@@ -1,0 +1,170 @@
+Nebraska
+Ne
+Omaha
+March 1, 1867
+1845525
+Cornhusker State
+California
+CA
+Sacramento
+Sept. 9, 1850
+37253956
+Golden State
+Missouri
+MO
+Jefferson City
+Aug. 10, 1821
+5988927
+Show Me State
+Wyoming
+WY
+Cheyenne
+July 10, 1890
+576412
+Equality State
+Washington
+WA
+Olympia
+Nov. 11, 1889
+6897012
+The Evergreen State
+Colorado
+CO
+Denver
+Aug. 1, 1876
+5187582
+Centennial State
+Connecticut
+CT
+Hartford
+Jan. 9, 1788
+3590347
+The Constitution State
+Alaska
+AK
+Juneau
+Jan. 3, 1959
+731449
+The Last Frontier
+Florida
+FL
+Tallahassee
+Mar. 3, 1845
+19317568
+The Sunshine State
+Virginia
+VA
+Richmond
+June 25, 1788
+8185866
+Old Dominion
+Hawaii
+HI
+Honolulu
+Aug. 21, 1959
+1392313
+The Aloha State
+Utah
+UT
+Salt Lake City
+Jan. 4, 1896
+2855287
+Beehive State
+Minnesota
+MN
+Saint Paul
+May 11, 1858
+5379139
+Land of 10,000 Lakes
+Georgia
+GE
+Atlanta
+Jan. 2, 1788
+9919945
+Peach State
+Maryland
+MA
+Annapolis
+April 28, 1788
+5928814
+Old Line State
+Texas
+TX
+Austin
+December 29, 1845
+26448193
+Lone Star State
+Iowa
+IA
+Des Moines
+December 28, 1846
+3090416
+Hawkeye State
+Idaho
+ID
+Boise
+July 3, 1890
+1612136
+Gem State
+Louisiana
+LA
+Baton Rouge
+April 30, 1812
+4625470
+Pelican State
+Vermont
+VT
+Montpelier
+March 4, 1791
+626630
+Green Mountain State
+Alabama
+AL
+Montgomery
+December 14, 1819
+4833722
+Yellowhammer State
+New Mexico
+NM
+Sante Fe
+January 6, 1912
+2081015
+Land of Enchantment
+Arkansas
+AR
+Little Rock
+June 15, 1836
+2988248
+The Natural State
+New Jersey
+NJ
+Trenton
+December 18, 1787
+8944469
+The Garden State
+North Dakota
+ND
+Bismark
+November 2, 1889
+757953
+Peace Garden State
+Michigan
+MI
+Lansing
+January 26, 1837
+9928300
+The Great Lake(s) State
+Kentucky
+KY
+Frankfort
+June 1, 1792
+4436974
+Bluegrass State
+Rhode Island
+RI
+Providence
+May 29, 1790
+1056426
+The Ocean State
+
+

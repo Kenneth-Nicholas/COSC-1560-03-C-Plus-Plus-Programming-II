@@ -1,0 +1,83 @@
+User:       Linda Carlson
+Username:   lindac45
+Status:     Invalid
+Reason(s):  
+Username is less than 10 chars in length
+Username does not contain 1 uppercase character
+Username does not contain 1 digit
+Password:   N9r%ZCVD
+Status:     Valid
+
+User:       Phil Collins
+Username:   bigDeal100
+Status:     Invalid
+Reason(s):  
+Username does not contain 1 digit
+Password:   9Pu$kmXF
+Status:     Valid
+
+User:       Katie Lewis
+Username:   kattttie1
+Status:     Invalid
+Reason(s):  
+Username is less than 10 chars in length
+Username does not contain 1 uppercase character
+Password:   NnYhdG9
+Status:     Invalid
+Reason(s):  
+Password is less than 8 characters in length
+Password does not contain 1 special character
+
+User:       Ben Williams
+Username:   gentleBen1
+Status:     Valid
+Password:   JRRY_XKQ
+Status:     Invalid
+Reason(s):  
+Password does not contain 1 digit
+Password does not contain 1 lowercase character
+Password does not contain 1 special character
+
+User:       Jason Hill
+Username:   h1llSter00
+Status:     Invalid
+Reason(s):  
+Username does not contain 1 digit
+Password:   &d88uQ2$
+Status:     Valid
+
+User:       Peter Piper
+Username:   TheP1per
+Status:     Invalid
+Reason(s):  
+Username is less than 10 chars in length
+Username does not contain 1 uppercase character
+Password:   1234567
+Status:     Invalid
+Reason(s):  
+Password is less than 8 characters in length
+Password does not contain one uppercase character
+Password does not contain 1 lowercase character
+Password does not contain 1 special character
+
+User:       Colleen Wells
+Username:   Wellwish19
+Status:     Invalid
+Reason(s):  
+Username does not contain 1 digit
+Password:   qrcSfwsh
+Status:     Invalid
+Reason(s):  
+Password does not contain 1 digit
+Password does not contain 1 special character
+
+User:       John Howard
+Username:   JazzMAN99
+Status:     Invalid
+Reason(s):  
+Username is less than 10 chars in length
+Username does not contain 1 uppercase character
+Username does not contain 1 digit
+Password:   WHAnr%F7
+Status:     Valid
+

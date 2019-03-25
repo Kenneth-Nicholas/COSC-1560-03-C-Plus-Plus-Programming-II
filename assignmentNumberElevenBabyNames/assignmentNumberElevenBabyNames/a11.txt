@@ -1,0 +1,106 @@
+1. How many Female names began with the letter 'S' in the year 2013?
+
+99 Female names begane with the letter 'S' in 2013.
+
+
+2. How many Male names began with the letter 'Y' in the year 2011?
+
+26 Male names begane with the letter 'Y' in 2011.
+
+
+3. How many Female babies were named Genesis in the years 2011 - 2014?
+
+2 Female babies were named Genesis in 2011.
+2 Female babies were named Genesis in 2012.
+2 Female babies were named Genesis in 2013.
+2 Female babies were named Genesis in 2014.
+8 Female babies were named Genesis in the years 2011 - 2014.
+
+
+4. How many Asian and Pacific Islander Male names were recorded for 2011?
+
+151 Asian and Pacific Islander Male names were recorded for 2011.
+
+
+5. How many Male names contained the letters "CAM" for the year 2014?
+
+The following Male names contained the letters "CAM" for the year 2014.
+(Ethnicity, and the number of babies is also displayed to clarify duplicate names)
+
+CAMERON
+ASIAN AND PACIFIC ISLANDER
+11
+
+CAMERON
+BLACK NON HISPANIC
+38
+
+CAMERON
+HISPANIC
+19
+
+CAMERON
+WHITE NON HISPANIC
+24
+
+
+Altogether, 4 Male names contained the letters "CAM" for the year 2014.
+
+
+6. How many Male babies were recorded for 2013?
+
+38996 Male babies were recorded for 2013.
+
+
+7. Which year had more Hispanic babies? 2012 or 2013?
+
+2012 had more Hispanic babies, a total of 23547 were born in 2012.
+While only 23067 Hispanic babies were born in 2013.
+
+
+8. What was the most popular Hispanic Male and Female name for 2011?
+
+The most popular Hispanic Male name for 2011 was JAYDEN.
+The name JAYDEN was ranked number 1 on the list of most popular Hispanic Male names in 2011.
+A total of 426 babies were named JAYDEN in the year 2011.
+
+The most popular Hispanic Female name for 2011 was ISABELLA.
+The name ISABELLA was ranked number 1 on the list of most popular Hispanic Female names in 2011.
+A total of 331 babies were named ISABELLA in the year 2011.
+
+
+9. What was the least popular Black Non Hispanic Male and Female name for 2012?
+
+The least popular Black Non Hispanic Male name for 2012 was ABDOUL.
+Only 10 Black Non Hispanic Males were named ABDOUL in the year 2012.
+
+The least popular Black Non Hispanic Female name for 2012 was AMBER.
+Only 10 Black Non Hispanic Females were named AMBER in the year 2012.
+
+
+10. What was the most Male and Female name for each individual year from the year 2011 to the year 2014?
+
+In 2011, the most popular Male name was JAYDEN.
+A total of 426 Male babies were named JAYDEN in the year 2011.
+
+In 2011, the most popular Female name was ISABELLA.
+A total of 331 Female babies were named ISABELLA in the year 2011.
+
+In 2012, the most popular Male name was JAYDEN.
+A total of 364 Male babies were named JAYDEN in the year 2012.
+
+In 2012, the most popular Female name was ISABELLA.
+A total of 327 Female babies were named ISABELLA in the year 2012.
+
+In 2013, the most popular Male name was JAYDEN.
+A total of 352 Male babies were named JAYDEN in the year 2013.
+
+In 2013, the most popular female name was ISABELLA.
+A total of 326 Female babies were named ISABELLA in the year 2013.
+
+In 2014, the most popular Male name was LIAM.
+A total of 312 Male babies were named LIAM in the year 2014.
+
+In 2014, the most popular Female name was ISABELLA.
+A total of 331 Female babies were named ISABELLA in the year 2014.
+

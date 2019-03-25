@@ -1,0 +1,12 @@
+﻿Build started 11/16/2017 7:45:03 PM.
+     1>Project "c:\Users\KN\documents\visual studio 2013\Projects\novemberSixteenth\novemberSixteenth\novemberSixteenth.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\kn\documents\visual studio 2013\Projects\novemberSixteenth\Debug\novemberSixteenth.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\kn\documents\visual studio 2013\Projects\novemberSixteenth\Debug\novemberSixteenth.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\kn\documents\visual studio 2013\Projects\novemberSixteenth\Debug\novemberSixteenth.lib" /MACHINE:X86 Debug\Source.obj
+         Debug\InClassProblemPg594Number2.obj
+     1>InClassProblemPg594Number2.obj : error LNK2005: _main already defined in Source.obj
+     1>c:\users\kn\documents\visual studio 2013\Projects\novemberSixteenth\Debug\novemberSixteenth.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "c:\Users\KN\documents\visual studio 2013\Projects\novemberSixteenth\novemberSixteenth\novemberSixteenth.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.20

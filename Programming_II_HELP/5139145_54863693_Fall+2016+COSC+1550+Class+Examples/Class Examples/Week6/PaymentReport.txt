@@ -1,0 +1,6 @@
+Loan Amount:                  $  10000.00
+Monthly Interest Rate:               1.00%
+Number of Payments:           $        60
+Monthly Payment:              $    222.44
+Amount Paid Back:             $  13346.67
+Interest Paid:                $   3346.67

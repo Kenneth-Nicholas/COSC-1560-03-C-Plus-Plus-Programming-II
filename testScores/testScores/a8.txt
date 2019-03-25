@@ -1,0 +1,26 @@
+STUDENT TEST SCORES
+*****************************************
+Student 1:
+77 79 82 83 84 87 88 89 90 97 
+Average Score: 85.6
+
+Student 2:
+75 76 80 84 85 88 88 89 90 91 
+Average Score: 84.6
+
+Student 3:
+73 89 91 92 96 98 99 99 100 100 
+Average Score: 93.7
+
+Student 4:
+70 78 79 80 85 86 89 90 98 99 
+Average Score: 85.4
+
+Student 5:
+82 88 89 90 97 97 98 99 99 100 
+Average Score: 93.9
+
+Student 6:
+65 67 67 77 80 81 87 88 99 100 
+Average Score: 81.1
+

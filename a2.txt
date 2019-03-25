@@ -1,0 +1,16 @@
+PROGRAM RESULTS: 
+
+The complex numbers:
+
+(5 + 9i) (12 + 8i)
+Added together equal: (17 + 17i)
+Subrtacted equal:     (-7 + 1i)
+
+(10 + 5i) (3 + 4i)
+Added together equal: (13 + 9i)
+Subrtacted equal:     (7 + 1i)
+
+(2 + 8i) (7 + 13i)
+Added together equal: (9 + 21i)
+Subrtacted equal:     (-5 + -5i)
+
